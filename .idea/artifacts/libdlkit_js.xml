@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="libdlkit-js">
+    <output-path>$PROJECT_DIR$/libdlkit/build/libs</output-path>
+    <root id="archive" name="libdlkit-js.jar">
+      <element id="module-output" name="dlkit.libdlkit.jsMain" />
+    </root>
+  </artifact>
+</component>
